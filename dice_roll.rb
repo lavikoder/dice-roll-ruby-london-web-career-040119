@@ -4,7 +4,6 @@
 
 def roll
   random_num = rand(1..6)
-  puts "random_num"
 end
 
 
