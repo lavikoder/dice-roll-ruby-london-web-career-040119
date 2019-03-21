@@ -4,7 +4,7 @@
 
 def roll
   random_num = (1..6).rand
-  puts random_num
+  puts "random_num"
 end
 
 
